@@ -61,7 +61,7 @@ def price_gas_storage_contract(
 #
 # print(result)
 
-data = pd.read_csv('Nat_Gas.csv')
+data = pd.read_csv('dataset/Nat_Gas.csv')
 df = pd.DataFrame(data)
 
 injection_dates = input("Enter the injection dates (MM/DD/YY, comma-separated): ").split(',')
