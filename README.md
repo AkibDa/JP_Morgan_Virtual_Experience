@@ -39,7 +39,7 @@ pip install pandas scikit-learn matplotlib seaborn
 ```
 
 ## 📁 Dataset
-The loan data used for Task 3 & 4 is available in the data/ folder:
+The loan data used for Task 3 & 4 is available in the dataset/ folder:
 ```
 Task 3 and 4_Loan_Data.csv
 ```
