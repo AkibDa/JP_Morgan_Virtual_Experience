@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('Nat_Gas.csv')
+df = pd.read_csv('dataset/Nat_Gas.csv')
 print(df.head())
 
 def get_price_by_date(df, date):
