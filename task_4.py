@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import KBinsDiscretizer
 
-loan_data = pd.read_csv("Task 3 and 4_Loan_Data.csv")
+loan_data = pd.read_csv("dataset/Task 3 and 4_Loan_Data.csv")
 
 fico_scores = loan_data['fico_score'].values.reshape(-1, 1)
 
