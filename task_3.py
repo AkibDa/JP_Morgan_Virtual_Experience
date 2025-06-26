@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import roc_auc_score
 
-loan_data = pd.read_csv('Task 3 and 4_Loan_Data.csv')
+loan_data = pd.read_csv('dataset/Task 3 and 4_Loan_Data.csv')
 
 features = ['credit_lines_outstanding', 'loan_amt_outstanding', 'total_debt_outstanding',
             'income', 'years_employed', 'fico_score']
