@@ -47,6 +47,4 @@ Task 3 and 4_Loan_Data.csv
 This project is part of a virtual experience and is not affiliated with J.P. Morgan in any official capacity.
 
 ## 🔗 Connect with Me
-GitHub: @AkibDa
-
-LinkedIn: Sk Akib Ahammed
+Sk Akib Ahammed[ahammedskakib@gmail.com]
