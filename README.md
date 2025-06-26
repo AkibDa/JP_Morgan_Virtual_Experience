@@ -35,7 +35,7 @@ This repository contains my completed tasks for the **JPMorgan Chase & Co. Quant
 ## 🚀 How to Run
 ```bash
 # Install dependencies
-pip install pandas scikit-learn matplotlib seaborn
+pip install pandas scikit-learn
 ```
 
 ## 📁 Dataset
