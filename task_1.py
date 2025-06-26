@@ -15,7 +15,7 @@ def get_price_by_date(df, date):
     else:
         return None
 
-date = input('Enter the date(DD/MM/YY): ')
+date = input('Enter the date(MM/DD/YY): ')
 
 price = get_price_by_date(df, date)
 print(price)
